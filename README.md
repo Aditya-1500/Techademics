@@ -1,5 +1,4 @@
-# Techademics Learning-cum-Student Management System (Prototype)
-This is a Simple Student Management System Developed for fulfilment of Minor Project Course.
+# Techademics: Academic Management System
 
 ## Features of this Project
 
@@ -137,6 +136,3 @@ Password: student
 ## Group Details:
 1. Aditya Manchanda (18103011)
 2. Arshdeep Singh (18103022)
-3. Aviral Gupta (18103025)
-4. Kashyap Goutam (18103052)
-

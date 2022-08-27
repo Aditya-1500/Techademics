@@ -1,4 +1,4 @@
-# Techademics: Academic Management System
+# Techademics: Academic Management System (Prototype)
 
 ## Features of this Project
 
